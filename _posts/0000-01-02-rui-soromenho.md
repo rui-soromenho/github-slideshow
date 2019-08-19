@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Bianka sandwiches' are made with love.
 Use the left arrow to go back!
